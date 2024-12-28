@@ -3,7 +3,8 @@ langchain_community
 langchain-openai
 openai
 streamlit
+streamlit_chat
 tiktoken
 python-dotenv
 
--e .
+# -e .
